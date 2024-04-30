@@ -7,6 +7,9 @@ print("float valu",float_no)
 #creating third variable and assign it a boolean
 bool=True
 print("bool value",bool)
+#creating reassign first variable
+x=100
+print("x value",x)
 
 
 
