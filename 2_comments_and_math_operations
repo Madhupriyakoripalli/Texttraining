@@ -10,6 +10,9 @@ print(mul)
 #create a variable and assign it the product of 2 integers
 mul = 2*7
 print(mul)
+#create a variable and assign it result of one integer being divided by another integers
+div = 240/2
+print(div)
 
 
 
