@@ -1,3 +1,7 @@
 #create a variable and assign it the sum of 2 integers
 sum = 9+9
 print(sum)
+#create a variable and assign it the difference of 2 integers
+diff = 10-5
+print(diff)
+
