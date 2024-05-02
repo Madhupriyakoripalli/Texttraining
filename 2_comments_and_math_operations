@@ -1,0 +1,3 @@
+#create a variable and assign it the sum of 2 integers
+sum = 9+9
+print(sum)
