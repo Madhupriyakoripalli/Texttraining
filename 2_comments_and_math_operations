@@ -4,4 +4,12 @@ print(sum)
 #create a variable and assign it the difference of 2 integers
 diff = 10-5
 print(diff)
+#create a variable and assign it the product of 2 integers
+mul = 2*7
+print(mul)
+#create a variable and assign it the product of 2 integers
+mul = 2*7
+print(mul)
+
+
 
