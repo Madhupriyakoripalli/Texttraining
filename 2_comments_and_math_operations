@@ -16,6 +16,10 @@ print(div)
 #Create a variable and assign it the result of 4 raised to the 4th power
 pow = 4**4
 print(pow)
+#Create a variable and assign it the result of 50 floor division 5
+floor = 50//5
+print(floor)
+
 
 
 
