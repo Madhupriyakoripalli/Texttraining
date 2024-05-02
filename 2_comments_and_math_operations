@@ -13,6 +13,10 @@ print(mul)
 #create a variable and assign it result of one integer being divided by another integers
 div = 240/2
 print(div)
+#Create a variable and assign it the result of 4 raised to the 4th power
+pow = 4**4
+print(pow)
+
 
 
 
