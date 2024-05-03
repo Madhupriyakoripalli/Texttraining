@@ -13,3 +13,4 @@ while current_number > 0:
 # Print the user entered integer and the sum found by the while loop
 print("User entered integer:", user_integer)
 print("Sum found by the while loop:", sum_of_integers)
+
