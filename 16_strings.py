@@ -4,4 +4,6 @@ my_string = "Just do it!"
 print(my_string[-1])
 # Print the slice "do" from the variable
 print(my_string[5:7])
+# Get and print the slice "it!" from the variable
+print(my_string[8:])
 
