@@ -1,2 +1,4 @@
 # Create a variable and assign it the string "Just do it!"
 my_string = "Just do it!"
+# Access the "!" from the variable by index and print it
+print(my_string[-1])
