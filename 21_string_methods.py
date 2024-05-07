@@ -9,3 +9,5 @@ print(mixed_case.upper())
 print(mixed_case.lower())
 # Check if mixed_case is in title case
 print(mixed_case.istitle())
+# Check if mixed_case starts with the letter it starts with
+print(mixed_case.startswith(mixed_case[0]))
