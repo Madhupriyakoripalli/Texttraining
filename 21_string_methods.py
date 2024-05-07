@@ -16,3 +16,8 @@ print(mixed_case.endswith(mixed_case[-1]))
 # Split mixed_case into words
 words = mixed_case.split()
 print(words)
+# Join words into a single string
+joined_string = ' '.join(words)
+# Check if the joined string is entirely alphabetic
+print(joined_string.isalpha())
+print(joined_string)
