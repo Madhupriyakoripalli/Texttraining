@@ -5,3 +5,5 @@ print(mixed_case.isupper())
 print(mixed_case.islower())
 # Change all letters to upper case
 print(mixed_case.upper())
+# Change all letters to lower case
+print(mixed_case.lower())
