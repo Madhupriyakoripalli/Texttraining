@@ -11,3 +11,5 @@ print(mixed_case.lower())
 print(mixed_case.istitle())
 # Check if mixed_case starts with the letter it starts with
 print(mixed_case.startswith(mixed_case[0]))
+# Check if mixed_case ends with the letter it ends with
+print(mixed_case.endswith(mixed_case[-1]))
