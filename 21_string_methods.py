@@ -7,3 +7,5 @@ print(mixed_case.islower())
 print(mixed_case.upper())
 # Change all letters to lower case
 print(mixed_case.lower())
+# Check if mixed_case is in title case
+print(mixed_case.istitle())
