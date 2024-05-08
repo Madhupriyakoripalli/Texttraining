@@ -10,4 +10,6 @@ dict = {
 print("Value held at the third key:", dict["mahesh"])
 # Use the 'in' keyword to check if a key appears in the dictionary
 print("'madhu' appears in the dictionary:", 'madhu' in dict)
+# Use 'not in' to check if a key does not appear in the dictionary
+print("'pear' does not appear in the dictionary:", 'pear' not in dict)
 
