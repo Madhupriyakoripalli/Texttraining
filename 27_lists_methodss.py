@@ -15,3 +15,6 @@ print(arctic_animals)
 # Get the index number of "reindeer" and print it
 reindeer_index = arctic_animals.index("reindeer")
 print("Index of 'reindeer':", reindeer_index)
+# Pop the last item from the list and print it
+last_item = arctic_animals.pop()
+print("Last item:", last_item)
