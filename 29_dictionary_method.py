@@ -13,3 +13,7 @@ print("Length of the dictionary:", len(music_dictionary))
 print("Keys in the dictionary:")
 for key in music_dictionary.keys():
     print(key)
+# Print all values from the dictionary
+print("\nValues in the dictionary:")
+for value in music_dictionary.values():
+    print(value)
