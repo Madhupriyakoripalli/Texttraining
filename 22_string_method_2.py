@@ -10,3 +10,5 @@ print(center_plus)
 print(string.lstrip("North"))
 # Remove "+" from the right of center_plus
 print(center_plus.rstrip("+"))
+# Remove "+" from both sides of center_plus
+print(center_plus.strip("+"))
