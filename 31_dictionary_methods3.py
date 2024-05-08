@@ -3,3 +3,5 @@ internet_celebrities = {"DrDisrespect": "YouTube", "ZLaner": "Facebook", "Ninja"
 another_one = {"shroud": "Twitch"}
 # Use .update() to add the contents of another_one to internet_celebrities
 internet_celebrities.update(another_one)
+# Create a variable and assign it a copy of internet_celebrities
+internet_celebrities_copy = internet_celebrities.copy()
