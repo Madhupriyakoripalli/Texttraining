@@ -6,3 +6,5 @@ dict = {
     "dileep": 9,
     "priya": 11
 }
+# Print and access the value held at the third key in the dictionary
+print("Value held at the third key:", dict["mahesh"])
