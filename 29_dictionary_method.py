@@ -7,3 +7,5 @@ music_dictionary = {
     "The Beatles": "Hey Jude",
     "Bob Dylan": "Like A Rolling Stone"
 }
+# Print the length of the dictionary
+print("Length of the dictionary:", len(music_dictionary))
