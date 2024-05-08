@@ -5,3 +5,5 @@ another_one = {"shroud": "Twitch"}
 internet_celebrities.update(another_one)
 # Create a variable and assign it a copy of internet_celebrities
 internet_celebrities_copy = internet_celebrities.copy()
+# Use the .clear() method to get rid of the contents of internet_celebrities
+internet_celebrities.clear()
