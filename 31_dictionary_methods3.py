@@ -7,3 +7,5 @@ internet_celebrities.update(another_one)
 internet_celebrities_copy = internet_celebrities.copy()
 # Use the .clear() method to get rid of the contents of internet_celebrities
 internet_celebrities.clear()
+# Print internet_celebrities
+print("Internet Celebrities after clearing:", internet_celebrities)
