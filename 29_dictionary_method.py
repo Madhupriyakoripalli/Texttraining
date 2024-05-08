@@ -17,3 +17,7 @@ for key in music_dictionary.keys():
 print("\nValues in the dictionary:")
 for value in music_dictionary.values():
     print(value)
+# Print all key-value pairs from the dictionary
+print("\nKey-Value Pairs:")
+for key, value in music_dictionary.items():
+    print(key, "-", value)
