@@ -2,5 +2,7 @@ arctic_animals = ["penguin", "elephant", "polar bear", "walrus", "tiger", "reind
 
 # Remove "tiger" from the list
 del arctic_animals[arctic_animals.index("tiger")]
+# Remove "elephant" from the list
+arctic_animals.remove("elephant")
 
 
