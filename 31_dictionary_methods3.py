@@ -9,3 +9,5 @@ internet_celebrities_copy = internet_celebrities.copy()
 internet_celebrities.clear()
 # Print internet_celebrities
 print("Internet Celebrities after clearing:", internet_celebrities)
+# Print the variable created in step 3
+print("Copy of Internet Celebrities:", internet_celebrities_copy)
