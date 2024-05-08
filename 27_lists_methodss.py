@@ -6,4 +6,5 @@ del arctic_animals[arctic_animals.index("tiger")]
 arctic_animals.remove("elephant")
 # Add "arctic fox" to the list
 arctic_animals.append("arctic fox")
-
+# Insert "snowy owl" between "polar bear" and "walrus"
+arctic_animals.insert(arctic_animals.index("walrus"), "snowy owl")
