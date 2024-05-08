@@ -21,3 +21,6 @@ for value in music_dictionary.values():
 print("\nKey-Value Pairs:")
 for key, value in music_dictionary.items():
     print(key, "-", value)
+# Check for the key "Promise of the Real" using .get() method
+key_not_found_message = music_dictionary.get("Promise of the Real", "Key not found in the dictionary.")
+print("\nMessage if key not found:", key_not_found_message)
