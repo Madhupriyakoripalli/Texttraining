@@ -12,3 +12,6 @@ arctic_animals.insert(arctic_animals.index("walrus"), "snowy owl")
 arctic_animals.sort()
 # Display the modified list
 print(arctic_animals)
+# Get the index number of "reindeer" and print it
+reindeer_index = arctic_animals.index("reindeer")
+print("Index of 'reindeer':", reindeer_index)
