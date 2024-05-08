@@ -8,3 +8,5 @@ arctic_animals.remove("elephant")
 arctic_animals.append("arctic fox")
 # Insert "snowy owl" between "polar bear" and "walrus"
 arctic_animals.insert(arctic_animals.index("walrus"), "snowy owl")
+# Sort the list alphabetically
+arctic_animals.sort()
