@@ -8,3 +8,5 @@ center_plus =string.center(16, "+")
 print(center_plus)
 # Remove "North" from the left of the string
 print(string.lstrip("North"))
+# Remove "+" from the right of center_plus
+print(center_plus.rstrip("+"))
