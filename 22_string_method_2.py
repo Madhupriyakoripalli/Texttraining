@@ -6,3 +6,5 @@ print(string.ljust(17, "*"))
 # Center the string with 16 characters, padding with "+"
 center_plus =string.center(16, "+")
 print(center_plus)
+# Remove "North" from the left of the string
+print(string.lstrip("North"))
