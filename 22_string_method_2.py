@@ -12,3 +12,5 @@ print(string.lstrip("North"))
 print(center_plus.rstrip("+"))
 # Remove "+" from both sides of center_plus
 print(center_plus.strip("+"))
+# Replace "North" with "South" in the string
+print(string.replace("North", "South"))
