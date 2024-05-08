@@ -9,3 +9,7 @@ music_dictionary = {
 }
 # Print the length of the dictionary
 print("Length of the dictionary:", len(music_dictionary))
+# Print all keys from the dictionary on separate lines
+print("Keys in the dictionary:")
+for key in music_dictionary.keys():
+    print(key)
