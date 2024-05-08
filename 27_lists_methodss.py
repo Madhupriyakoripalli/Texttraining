@@ -10,3 +10,5 @@ arctic_animals.append("arctic fox")
 arctic_animals.insert(arctic_animals.index("walrus"), "snowy owl")
 # Sort the list alphabetically
 arctic_animals.sort()
+# Display the modified list
+print(arctic_animals)
