@@ -17,4 +17,7 @@ for _ in range(T):
     S = input().strip()
     T = input().strip()
     
+    # Determine correctness of the guess word
+    M = correctness(S, T)
     
+   
