@@ -20,4 +20,5 @@ for _ in range(T):
     # Determine correctness of the guess word
     M = correctness(S, T)
     
-   
+    # Output the result
+    print(M)
