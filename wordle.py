@@ -11,4 +11,10 @@ def correctness(S, T):
 # Input the no of test cases
 T = int(input())
 
-
+# Iterate over each test case
+for _ in range(T):
+    # Input the hidden word and guess word
+    S = input().strip()
+    T = input().strip()
+    
+    
