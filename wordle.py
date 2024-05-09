@@ -8,4 +8,7 @@ def correctness(S, T):
             M += "B"  # If guess is wrong, add 'B' to M
     return M
 
+# Input the no of test cases
+T = int(input())
+
 
